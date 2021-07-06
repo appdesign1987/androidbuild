@@ -27,6 +27,7 @@ chmod a+x ~/bin/repo
 echo "Git configureren"
 git config --global user.email "jeroen@jeroenvd.nl"
 git config --global user.name "Jeroen"
+git config --global color.ui false
 
 #naar de Androide-PE folder gaan
 echo "naar de Android-PE folder gaan"
