@@ -1,4 +1,9 @@
 #!/bin/bash
+
+#we gaan een screen sessie starten zodat we later  nog terug kunnen komen
+echo "start screen"
+screen
+
 echo "installeer git"
 sudo apt install git
 
